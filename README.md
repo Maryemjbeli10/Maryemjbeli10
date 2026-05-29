@@ -1,46 +1,64 @@
 <div align="center">
 
-<!-- Dynamic Header with particle effect -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,20,24&height=200&section=header&text=Maryem%20Jbeli&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%E2%80%A2%20AI%20Engineering%20%E2%80%A2%20Business%20Intelligence&descAlignY=62&descSize=16&stroke=6C63FF&strokeWidth=2" width="100%" />
+<br/>
 
-<!-- Animated typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=🧠+Building+Intelligent+Data+Systems;📊+From+Raw+Data+to+Actionable+Intelligence;🚀+MLOps+%7C+Deep+Learning+%7C+Big+Data;💡+Turning+Numbers+into+Decisions" alt="Typing SVG" />
+<!-- Minimal elegant header -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0,2,20&height=140&section=header&text=Maryem%20Jbeli&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%" />
 
 <br/>
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariemjbeli)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jbelimariem466@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryemjbeli10)
-![Profile Views](https://komarev.com/ghpvc/?username=maryemjbeli10&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+<!-- Slim typing line -->
+<img src="https://readme-typing-svg.demolab.com?font=DM+Mono&weight=400&size=16&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=600&lines=Data+Science+%26+AI+Engineering+%E2%80%A2+TEK-UP+University;Business+Intelligence+%E2%80%A2+ISG+Tunis;Building+intelligent+systems+%2C+one+model+at+a+time." alt="Typing SVG" />
+
+<br/><br/>
+
+<!-- Clean social row -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mariemjbeli)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jbelimariem466@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/maryemjbeli10)
+![Profile Views](https://komarev.com/ghpvc/?username=maryemjbeli10&style=flat-square&color=475569&label=views)
 
 </div>
 
+<br/>
+
 ---
 
-## 🧬 About Me
+## 👤 About Me
 
-```python
-class MaryemJbeli:
-    def __init__(self):
-        self.role       = "Data Science & AI Engineering Student"
-        self.university = "TEK-UP University, Ariana"
-        self.background = "Business Intelligence @ ISG Tunis"
-        self.location   = "🇹🇳 Tunis, Tunisia"
-        self.languages  = ["French", "Arabic", "English"]
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
-    @property
-    def current_focus(self):
-        return [
-            "🏢 Building Franchise Invest AI — SaaS for franchise investment",
-            "📐 Deep diving into MLOps & Advanced Deep Learning",
-            "🔎 Exploring Explainable AI (SHAP, LIME)",
-            "⚡ Scaling Big Data pipelines with Databricks & PySpark",
-        ]
+**Maryem Jbeli** is a Data Science & AI Engineering student at **TEK-UP University** with a solid foundation in Business Intelligence from **ISG Tunis**. She designs end-to-end data solutions — from ETL pipelines and predictive models to interactive dashboards and deployed ML systems.
 
-    def say_hi(self):
-        print("Transforming raw data into actionable intelligence 🚀")
-```
+<br/>
+
+**Currently working on**
+
+&nbsp;&nbsp;`→` 🏢 **Franchise Invest AI** — Intelligent SaaS for franchise investors  
+&nbsp;&nbsp;`→` 📐 MLOps & Advanced Deep Learning  
+&nbsp;&nbsp;`→` 🔎 Explainable AI with SHAP & LIME  
+&nbsp;&nbsp;`→` ⚡ Big Data at scale with Databricks & PySpark  
+
+    </td>
+    <td valign="top" width="45%">
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎓 | TEK-UP University, Ariana |
+| 📚 | ISG Tunis — Business Intelligence |
+| 📍 | Tunis, Tunisia 🇹🇳 |
+| 💬 | French · Arabic · English |
+| 📧 | jbelimariem466@gmail.com |
+
+</div>
+
+    </td>
+  </tr>
+</table>
 
 ---
 
