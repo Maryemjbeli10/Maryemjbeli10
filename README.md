@@ -26,11 +26,14 @@
 
 ## 👤 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-
 **Maryem Jbeli** is a Data Science & AI Engineering student at **TEK-UP University** with a solid foundation in Business Intelligence from **ISG Tunis**. She designs end-to-end data solutions — from ETL pipelines and predictive models to interactive dashboards and deployed ML systems.
+
+<br/>
+
+![Location](https://img.shields.io/badge/📍_Tunis,_Tunisia-0f172a?style=flat-square)
+![University](https://img.shields.io/badge/🎓_TEK--UP_University-1e293b?style=flat-square)
+![Languages](https://img.shields.io/badge/💬_FR_·_AR_·_EN-1e293b?style=flat-square)
+[![Email](https://img.shields.io/badge/📧_jbelimariem466@gmail.com-1e293b?style=flat-square)](mailto:jbelimariem466@gmail.com)
 
 <br/>
 
@@ -40,25 +43,6 @@
 &nbsp;&nbsp;`→` 📐 MLOps & Advanced Deep Learning  
 &nbsp;&nbsp;`→` 🔎 Explainable AI with SHAP & LIME  
 &nbsp;&nbsp;`→` ⚡ Big Data at scale with Databricks & PySpark  
-
-    </td>
-    <td valign="top" width="45%">
-
-<div align="center">
-
-| | |
-|---|---|
-| 🎓 | TEK-UP University, Ariana |
-| 📚 | ISG Tunis — Business Intelligence |
-| 📍 | Tunis, Tunisia 🇹🇳 |
-| 💬 | French · Arabic · English |
-| 📧 | jbelimariem466@gmail.com |
-
-</div>
-
-    </td>
-  </tr>
-</table>
 
 ---
 
